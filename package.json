@@ -22,7 +22,7 @@
 		"purge": "rm -rf .next/ node_modules/ package-lock.json"
 	},
 	"dependencies": {
-		"@types/node": "^20.14.0",
+		"@types/node": "^20.14.9",
 		"pg": "^8.11.5",
 		"ts-node": "^10.9.2",
 		"typeorm": "^0.3.20"
